@@ -1,0 +1,13 @@
+{
+  "Catalogs": [
+    {
+      "Type": "FREE",
+      "Name": "Freie Spiele",
+      "Games": [
+        {
+          "Name": "Defense"
+        }
+      ]
+    }
+  ]
+}
