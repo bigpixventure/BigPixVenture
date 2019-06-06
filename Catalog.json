@@ -1,16 +1,12 @@
 {
-  "Catalogs": [
+  "Games": [
     {
-      "Type": "FREE",
-      "Name": "Freie Spiele",
-      "Games": [
-        {
-          "Name": "Defense",
-          "Version" : "1",
-          "Description" : "Kleiner Test",
-          "Author" : "Henner"
-        }
-      ]
+      "Topics" : [ "Free", "Test" ],
+      "Name": "Defense",
+      "Version" : "1",
+      "Description" : "Kleiner Test",
+      "Author" : "Henner",
+      "Price" : 0
     }
   ]
 }
