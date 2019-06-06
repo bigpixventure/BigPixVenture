@@ -5,7 +5,10 @@
       "Name": "Freie Spiele",
       "Games": [
         {
-          "Name": "Defense"
+          "Name": "Defense",
+          "Version" : "1",
+          "Description" : "Kleiner Test",
+          "Author" : "Henner"
         }
       ]
     }
